@@ -1,6 +1,6 @@
 namespace MadlibVariables.Models
 {
-  public class MadlibVariables
+  public class MadlibValues
   {
     public string Adjective { get; set; }
     public string Foods { get; set; }
