@@ -56,3 +56,19 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 Copyright (c) _12-09-22_ _Richard Cha_
+
+
+
+Mad Libs
+
+present form on homepage /w fields: noun, adjective, adverb, excamations, etc.
+
+hitting submit should take them to MadLib.cshtml /w there @fields filled with their input
+
+NON-MVP
+
+allow for multiple "themes" aka stories, templates, different paragraphs
+
+format visuals
+
+hint: You can link to a different route by adding the route's path to a standard <a> tag. For instance, a Puppy() route with the route decorator [Route("/puppy-story")] could be accessed from another page with the link <a href="/puppy-story">Click here for puppies!</a>.
